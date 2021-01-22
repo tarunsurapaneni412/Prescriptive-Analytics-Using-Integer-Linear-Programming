@@ -75,4 +75,30 @@ This team had the second highest budget which was $80 million. Out of the availa
 Team C had the maximum total purse value of $85 million, they have been allotted with Manager from Category 1 with a price of $4 million which is the second highest price in the
 category of managers. After utilizing moderate amount of money on a manager, the team has been allotted with a physio from Category 3 with the highest price of $2.3 million.
 
+![](Images/R3.png)
 
+# Analysis
+# 4.1 One-Way Analysis
+
+![](Images/image6.jpeg)
+
+The one-way analysis was carried out in order to understand if Team C could accommodate more number of inexperienced players which has been their approach since the beginning.
+In the above one-way sensitivity analysis graph, by varying the number of minimum requirements of inexperienced players requested by Team-C, the effect on the minimized total cost can be deduced. The result shows that the optimal value stays at $218.4 million throughout, when the inexperienced players allotted to Team-C are varied from 1- 10. There is slight increase of $0.3 million in the optimal value when the 11th inexperienced player is allotted to Team-C. Beyond this point, any allotment of inexperienced players to Team-C is not possible.
+
+# Two-Way Analysis
+
+![](Images/image7.jpeg)
+
+The above analysis provides the following insights:
+A) To the management of Team A on how an increase in their budget (purse value) can result in increase in the total number of players being bought.
+B) For the Dream Team Consultancy, how an increase in budget can vary their objective function which is the total minimum cost (sum of the three teams).
+Team A has a budget of $65 million and they have used $64.9 million to get 16 players (which is their requirement). This analysis helps the team management to understand by how much should they increase their budget in order to increase the total number of players in their squad to 17 or 18 players. From the analysis we can see that for Team A to be able to buy a 17th player they have to increase their budget to $68 million from the current budget of $65 million (increase by $3 million). This increase in budget will increase the total minimum cost (objective function) from $218.4 million to 224.7 million, an increase by $6.3 million. With this budget it is not feasible to secure any other player as shown in the analysis. A further increase of budget by $2 million willdecrease the total minimum cost to $ 224.4 million, a decrease by $0.3 million but still they won’t be able to secure any new player (18th player) to their squad. The same is the case for a budget of $72 million, if the team management decides to get 18 players into their squad instead of 16 then they have to increase their budget to $ 74 million and this increase will have an effect on objective function (total minimum cost), taking it to $ 230.4 million (from initial 218.4 million), an increase of 12 million. With this budget of $ 74 million they will not be able to secure any additional player (more than 18) into their squad, same is the situation for a total budget of $76 million and $78 million as we can see from the report that it is not feasible. If the budget increases to $80 million then Team A will be able to get 19 players into their squad, this will increase the objective function (total minimum cost) to $236.4 million from $218.4, an increase by $18 million. With this budget of $80 million Team A won’t be able to secure any additional player to squad as we can see from the analysis that it is not feasible.
+
+## Analysis 3
+
+![](Images/image8.jpeg)
+
+The above analysis provides the following insights:
+A) To the management of Team B on how an increase in their budget (purse value) can influence the total number of players being assigned.
+B) For the Dream Team Consultancy, how an increase in budget can vary their objective function which is the total minimum cost (sum of the three teams).
+Team B has a budget of $80 million and they have used $76.8 million to get 17 players (which is their requirement). Now this report helps the team management to understand by how much should they increase their budget in order to increase the total number of players in their squad to 18 or 19 players. From the analysis we can see that for them to be able to buy a 18th player they have to increase their budget to $82 million from the current budget of $80 million (increase by $2million), this increase in budget will increase the total minimum cost (objective function) from $218.4 million to 224.4 million, an increase by $6 million. With this budget it is not feasible to buy any other player as shown in the report. A further increase of budget from $83 million to $ 85 million has no effect on the number of players being secured or on the objective function as we can see from the sensitivity analysis that it is not feasible. Here securing anymore players to the team is not feasible and the objective function (minimum total cost) remains insensitive for any further change in the total budget.
