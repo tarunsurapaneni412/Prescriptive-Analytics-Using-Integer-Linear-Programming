@@ -59,6 +59,20 @@ From the spreadsheet, it is clearly seen that Team B’s purse value is slightly
 The given purse value for this team was $85 million, which is $5 million more than Team B and $20 million more than Team A. However, Team C had a requirement of 18 players
 in total, which is respectively more by 2 and 1 than Teams A & B. The team has been allotted with 1-star striker, 4-star midfielders, 2-star defenders and 1-star goalkeeper from the 1st lot of 30 players. There are 2 inexperienced strikers, 3 inexperienced midfielders, 4 inexperienced defenders and 1 inexperienced Goalkeepers allotted from the 2nd pool of players. Finally, we can see that there are total of 18 players being assigned, out of which 8 are Star players and 10 are inexperienced players, this allocation doesn’t completely suggest that more budget implies more star players and this trend was different for the 1st two teams. Out of the total given purse value of $85 million the budget utilized is $74.6, which is $10.6 million less than the availability. Team C has got all their requirements fulfilled in a much lesser value than what was given.
 
-![](Images/imageR1.png)
+![](Images/R1.png)
 
-![](Images/imageR2.png)
+![](Images/R2.png)
+
+# Managers and Physios:
+Team managers and support staff are an integral part of any team, along with the players the franchise also had the requirement of having one manager and physio each. Based on the budgets given by the respective teams, they have been allocated with respective managers and physios For 
+
+# Team A: 
+Team A has been allotted with Manager from category 2, whose value is $3.8 million, given the fact that Team A has less budget as compared to the other two teams and given the fact that the consultancy needs to accommodate both Players and support staff in a total of $65 million, hence M2 has been allotted to them which has the 2nd highest price for a manager. Physios were again divided into 3 different categories and Team A has been allocated with physio from category 1 with the least price i.e. $2.1 million. 
+
+# Team B:
+This team had the second highest budget which was $80 million. Out of the available lot of managers, this team has been allotted with the manager from the 3rd category which has the highest price of $4.2 million, the reason for this high value allocation for a manager could be the high purse value possessed by the team. A physio with a price of $2.2 million from category 2 was allocated to Team B. Given the scenario that the team has spent huge amount on Managers, hence it is feasible for them to get a Physio from category 2 to stay within the given budget.
+# Team C:
+Team C had the maximum total purse value of $85 million, they have been allotted with Manager from Category 1 with a price of $4 million which is the second highest price in the
+category of managers. After utilizing moderate amount of money on a manager, the team has been allotted with a physio from Category 3 with the highest price of $2.3 million.
+
+
