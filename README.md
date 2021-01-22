@@ -39,3 +39,26 @@ The initial step which goes in building the optimization model is to note down t
 case the input is as shown:
 
 ![](Images/image%202.png)
+
+![](Images/image3.jpeg)
+
+![](Images/image4.jpeg)
+
+![](Images/image5.jpeg)
+
+# Results
+After applying the linear programming model, all the constraints get thoroughly satisfied and the rest of the parameters for the 3 teams are explained as follows. 
+
+# For Team A: 
+From the 1st lot of 30 players, Team A has been allotted with one midfielder who happens to be the star player number 11. The team has been allotted with 4-star defenders with numbers 19, 20, 23 and 24 respectively and one-star goalkeeper at number 28. From the lot of 30 inexperienced players even though, Team A has not received any Star strikers, they have been assigned with 4 inexperienced strikers, which pretty much balances the team’s overall strength. Also, along with a bunch of star midfielders, the team has also been assigned with 4 inexperienced midfielders. Two inexperienced goalkeepers have also been assigned to Team A, which makes the total number of Goalkeepers to be 3. At the end with 4-star defenders, 4 inexperienced strikers, 5 midfielders (1 star & 4 inexperienced) and 3 Goalkeepers (1 Star and 2 Inexperienced) Team A has got a total of 16 players which was the team’s basic minimum requirement. Having said that the team has been assigned a good mix of both Star and In-experienced players with comparatively a lower budget of $65 million as compared to other two teams. Due to the added constraints and basic requirements given by the management, the budget is fully utilized, and the consultancy has provided the best optimized solution within the same. If this budget value is further increased, we might see more star players being assigned to Team A The team had a purse value of $ 65 million and the entire budget value has been used to fulfill their requirement.
+
+# For Team B: 
+From the spreadsheet, it is clearly seen that Team B’s purse value is slightly higher than that of Team A which is $ 80 million ($15 million more) and this gives them the scope of having a good mixture of Star and In-experienced players overall. Even if the budget is higher in this case, the team is also wanting to have 17 players (i.e. 1 extra player than team A). After optimizing, the team has been provided with 1-star striker, 4-star midfielders, 3-star defenders and 1-star Goalkeeper from the 1st lot of 30 Star players. If we look at the 2nd set of players, the team has been allotted with 1 In-experienced striker 2 In-experienced midfielders, and 5 In-experienced defenders. It is clearly seen that all the defenders allotted to the team are from 2nd set of Inexperienced players. Furthermore, we can conclude that, after having a comparatively higher budget their focus is on buying Star strikers than that of Star Defenders. Team B has been provided with 9 Star players and 8 In-experienced players, whereas for Team A which had a little lower budget had 6-star players and 10 In-experienced players. Even though the total purse value for Team B is $80 million, the utilized value is $76.8 which is $3.2 million less than the actual total. The team has done good progress in terms of meeting all the requirements yet settling up for lesser cost than the actual availability
+
+# For Team C: 
+The given purse value for this team was $85 million, which is $5 million more than Team B and $20 million more than Team A. However, Team C had a requirement of 18 players
+in total, which is respectively more by 2 and 1 than Teams A & B. The team has been allotted with 1-star striker, 4-star midfielders, 2-star defenders and 1-star goalkeeper from the 1st lot of 30 players. There are 2 inexperienced strikers, 3 inexperienced midfielders, 4 inexperienced defenders and 1 inexperienced Goalkeepers allotted from the 2nd pool of players. Finally, we can see that there are total of 18 players being assigned, out of which 8 are Star players and 10 are inexperienced players, this allocation doesn’t completely suggest that more budget implies more star players and this trend was different for the 1st two teams. Out of the total given purse value of $85 million the budget utilized is $74.6, which is $10.6 million less than the availability. Team C has got all their requirements fulfilled in a much lesser value than what was given.
+
+![](Images/imageR1.png)
+
+![](Images/imageR2.png)
