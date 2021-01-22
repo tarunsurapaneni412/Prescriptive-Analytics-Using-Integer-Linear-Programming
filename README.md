@@ -23,4 +23,4 @@ The Problem statement for this project is to build three teams for a franchise c
 The Team Allocation Model provides an optimal allocation of players, managers and physios to  the 3 teams. The main decision that the model needs to make is to allot different category players  of specific types to the 3 teams. These allocations are done in such a way that it minimizes the  total allocation cost to build the 3 teams. 
 The Team Allocation Model is an integer linear program with binary values having a set of  constraints which are mainly the requirements placed by the 3 teams and the mandatory allocation  constraints. All these made the Model a large-scale application with 200 decision variables and  100 constraints hitting the maximum limit of the data solver.
 
-
+![]
