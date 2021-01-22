@@ -37,4 +37,5 @@ spreadsheet, satisfying all the constraints and minimizing the total cost.
 # Model Inputs
 The initial step which goes in building the optimization model is to note down the inputs. In this
 case the input is as shown:
-![](Images/image%201.jpeg)
+
+![](Images/image%202.png)
