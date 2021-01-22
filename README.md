@@ -24,3 +24,17 @@ The Team Allocation Model provides an optimal allocation of players, managers an
 The Team Allocation Model is an integer linear program with binary values having a set of  constraints which are mainly the requirements placed by the 3 teams and the mandatory allocation  constraints. All these made the Model a large-scale application with 200 decision variables and  100 constraints hitting the maximum limit of the data solver.
 
 ![](Images/image%201.jpeg)
+
+The input for the model would be the three teams and the price tag for individual players. Each
+category and type of players have a certain price tag for teams to obtain their services. The
+allocation is done by meeting the objectives below:
+• Minimize the overall allocation cost for the 3 teams.
+• Build a team within certain budget proposed by the 3 teams.
+• Satisfy the team combination requested by the 3 teams.
+The optimized result shows the allocation of players to different teams as highlighted in the
+spreadsheet, satisfying all the constraints and minimizing the total cost.
+
+# Model Inputs
+The initial step which goes in building the optimization model is to note down the inputs. In this
+case the input is as shown:
+![](Images/image%201.jpeg)
